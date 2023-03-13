@@ -1,0 +1,61 @@
+
+.box{
+    height: 75%;
+    width: 50%;
+    border: 0px ;
+}
+.logo img{
+    position: absolute;
+    height: 40px;
+    padding-top: 3px;
+}
+.logo{
+    color: rgb(0, 0, 125);
+}
+.logo h1{
+    font-size: 13px;
+    padding-left: 37px;
+}
+.logo h2{
+font-size: 17px;
+padding-left: 37px;
+}
+.tieu-de{
+    text-align: center;
+    color: rgba(218, 33, 33, 0.885);
+    
+}
+.tieu-de h1{
+    font-size: 60px;
+}
+.tieu-de h2{
+    font-size: 35px;
+}
+.tieu-de p{
+    color: rgb(0, 0, 125);
+    font-size: 16px;
+}
+.noi-dung{
+    color: rgb(0, 0, 125);
+}
+.noi-dung h1{
+    font-size: 20px;
+}
+.noi-dung p{
+    font-size: 17px;
+}
+.border{
+border: 5px solid rgb(9, 205, 231);
+}
+.border-1{
+    border width :5px; ;
+}
+.border-2{
+border: 5px solid rgb(8, 21, 164);
+}
+.pading{
+    padding: 5px;
+}
+.pading-1{
+    padding: 15px;
+}
